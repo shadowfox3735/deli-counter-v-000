@@ -4,6 +4,7 @@ def line(deli)
   else 
     x = 0
     while x < deli.length
+    
 end
 
 def take_a_number
