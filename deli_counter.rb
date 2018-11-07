@@ -6,6 +6,7 @@ def line(deli)
     "The line is currently: "
     while x < deli.length
     "#{x+1}. #{deli[x]}"
+    x += 1
 end
 
 def take_a_number
