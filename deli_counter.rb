@@ -7,6 +7,7 @@ def line(deli)
     while x < deli.length
     "#{x+1}. #{deli[x]}"
     x += 1
+  end
 end
 
 def take_a_number
