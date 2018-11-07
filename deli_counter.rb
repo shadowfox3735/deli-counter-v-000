@@ -8,6 +8,8 @@ def line(deli)
     line << "#{x+1}. #{deli[x]}"
     x += 1
   end
+  puts line
+  end
 end
 
 def take_a_number
