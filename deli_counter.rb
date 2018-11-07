@@ -13,7 +13,7 @@ def line(deli)
 end
 
 def take_a_number(deli, name)
-  deli << name
+  deli.push(name)
 end
 
 def now_serving
