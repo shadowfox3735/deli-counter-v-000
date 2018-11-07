@@ -4,7 +4,7 @@ def line(deli)
   else 
     x = 0
     while x < deli.length
-    
+    "The line is currently: "
 end
 
 def take_a_number
